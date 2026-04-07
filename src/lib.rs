@@ -1,0 +1,21 @@
+pub mod config;
+pub mod convo;
+pub mod dialect;
+pub mod entity_detector;
+pub mod entity_registry;
+pub mod error;
+pub mod general_extractor;
+pub mod hook_protocol;
+pub mod knowledge_graph;
+pub mod layers;
+pub mod mcp_server;
+pub mod miner;
+pub mod normalize;
+pub mod onboarding;
+pub mod palace_graph;
+pub mod room_detector;
+pub mod search;
+pub mod split;
+pub mod storage;
+
+pub use error::{MempalaceError, Result};
