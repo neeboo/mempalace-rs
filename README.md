@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/mempalace_logo.png" alt="MemPalace-rs" width="280">
+<h1>🧠-🏛️-🦀</h1>
 
-# MemPalace-rs
+## MemPalace-rs
 
 ### The highest-scoring AI memory system ever benchmarked. And it's free.
 
