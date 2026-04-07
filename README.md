@@ -18,7 +18,7 @@ Other memory systems try to fix this by letting AI decide what's worth rememberi
 
 **Local, open, adaptable** — MemPalace-rs runs entirely on your machine, on any data you have locally, without using any external API or services. It has been tested on conversations — but it can be adapted for different types of datastores.
 
-**About this repo** — This repository is a Rust-first rewrite of the original MemPalace project. It keeps the palace model, AAAK, MCP surface, wake-up flow, and benchmark story, while replacing the runtime path with native Rust. It is meant as a respectful homage to the original project and a practical Rustification of it. Original project: [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace).
+**About this repo** — Original project: [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace). This repository is a Rust-first rewrite of the original MemPalace project. It keeps the palace model, AAAK, MCP surface, wake-up flow, and benchmark story, while replacing the runtime path with native Rust. It is meant as a respectful homage to the original project and a practical Rustification of it.
 
 <br>
 
